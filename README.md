@@ -6,11 +6,23 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/blahh_guyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/chirag-chauhan-48b2a2253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chiragchauhan1401@gmail.com) 
 
 ## 💻 Tech Stack
-## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,sklearn,pytorch,numpy,pandas,scipy,sqlite,mysql,git,github,linux,vscode,figma" />
-</p>
+![Python](https://img.shields.io/badge/python-3670A0)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571)
+![Docker](https://img.shields.io/badge/Docker-2496ED)
+![REST API](https://img.shields.io/badge/REST-API-blue)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ChiragMinds&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
